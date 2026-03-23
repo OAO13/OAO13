@@ -48,7 +48,7 @@ My ultimate goal is more like a journey. I'm hoping to learn and gain as much kn
 - CompTIA Security+ (SY0-701)
   - Issued by CompTIA
   - Date: 12/22
-  - Verify: [[https://www.credly.com/badges/YOUR-BADGE-LINK](https://www.credly.com/earner/earned/badge/32e2423b-7f04-4088-adb4-ec733355e068)](https://www.credly.com/badges/32e2423b-7f04-4088-adb4-ec733355e068/public_url)
+  - Verify: https://www.credly.com/badges/32e2423b-7f04-4088-adb4-ec733355e068/public_url
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
