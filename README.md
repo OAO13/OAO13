@@ -5,7 +5,7 @@ I am an experienced Systems analyst, with years of experience in providing techn
 
 ## Objective
 
-My ultimate goal is to a continuous one. I'm hoping to learn and gain as much knowledge skills neccassry for me to become a cybersecurity professional; specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My ultimate goal is more like a journey. I'm hoping to learn and gain as much knowledge skills neccassry for me to become a cybersecurity professional; specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -45,7 +45,10 @@ My ultimate goal is to a continuous one. I'm hoping to learn and gain as much kn
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+- CompTIA Security+ (SY0-701)
+  - Issued by CompTIA
+  - Date: 12/22
+  - Verify: [https://www.credly.com/badges/YOUR-BADGE-LINK](https://www.credly.com/earner/earned/badge/32e2423b-7f04-4088-adb4-ec733355e068)
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
