@@ -1,4 +1,4 @@
-## # Hello, I'm Olaniyi
+Hello, I'm Olaniyi
 <a href="https://www.linkedin.com/in/adebajoosisanya/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an experienced Systems analyst, with years of experience in providing technical support with construction, maintenance, and facilities ERP systems. I'm looking to utlize my current system analysis skills to pivot into the cyberseucrity field. 
