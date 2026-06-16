@@ -5,7 +5,7 @@ I am an experienced Systems analyst, with years of experience in providing techn
 
 ## Objective
 
-My ultimate goal is more like a journey. I'm still figuring out whcih niche I want to land on, but for the time being my goal is to learn, and keep learning.
+My ultimate goal is more like a journey. I'm still figuring out which niche I want to land on, but for the time being my goal is to learn, and keep learning.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
