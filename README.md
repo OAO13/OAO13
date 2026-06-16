@@ -6,10 +6,10 @@ Just a brief introduction of myself - I am an experienced Systems analyst, with 
 
 ## Objective
 
-My ultimate goal is more like a journey. I'm still figuring out which niche I want to land on, but for the time being my goal is to learn, and keep learning.
+My ultimate goal is more like a journey. The ultimate end result of this journey to learn, and keep learning. I'm using this space to share what I'm learning on my journey.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+Here are a few skills I've picked up on this journey. From subjects I've already learned, to new skills I've picked up.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
