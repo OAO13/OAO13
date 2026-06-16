@@ -2,7 +2,7 @@
 
 Hello, I'm Olaniyi!
 
-Just a bried introduction of myself - I am an experienced Systems analyst, with years of experience in providing technical support with construction, maintenance, and facilities ERP systems. I'm looking to utlize my current system analysis skills to pivot into the IT Specialist role. 
+Just a brief introduction of myself - I am an experienced Systems analyst, with years of experience in providing technical support with construction, maintenance, and facilities ERP systems. I'm looking to utlize my current system analysis skills to pivot into the IT Specialist role. 
 
 ## Objective
 
