@@ -14,9 +14,9 @@ Here are a few skills I've picked up on this journey. From subjects I've already
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SQL                                           | <a href="https://google.com">Detection Lab</a>|
-| Active Directory                              | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Linux                                         | <a href="https://google.com">Detection Lab</a>|
+| Python                                        | SOC Automation Lab|
+| Active Directory                              | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
