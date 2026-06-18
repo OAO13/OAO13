@@ -46,5 +46,5 @@ Here are a few skills I've picked up on this journey. From subjects I've already
 </div>
 
 ## Projects
-- Active Directory 
+- Daily Service Desk Simulation with ServiceDesk Simulator
   
