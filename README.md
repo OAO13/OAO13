@@ -35,7 +35,7 @@ Here are a few skills I've picked up on this journey. From subjects I've already
   - Date: 12/22
   - Verify: https://www.credly.com/badges/32e2423b-7f04-4088-adb4-ec733355e068/public_url
 
-- CompTIA Network+ ()
+CompTIA Network+ ()
   - Issued by CompTIA
   - Date: 04/26
   - Verify:
@@ -43,9 +43,10 @@ Here are a few skills I've picked up on this journey. From subjects I've already
 - CYSA+ (IN PROGRESS)
 
 - MS-300 (IN PROGRESS)
+</div>
 
+## Study Material
 </div>
 
 ## Projects
 - Daily Service Desk Simulation with ServiceDesk Simulator
-  
