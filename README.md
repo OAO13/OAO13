@@ -35,7 +35,6 @@ Here are a few skills I've picked up on this journey. From subjects I've already
 ### MS-300
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 - CompTIA Security+ (SY0-701)
   - Issued by CompTIA
