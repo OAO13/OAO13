@@ -18,10 +18,6 @@ Here are a few skills I've picked up on this journey. From subjects I've already
 | Python                                        |In progess|
 | Active Directory                              |In progess|
 
-### Network+
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
 
 ## Certifications
 <div>
@@ -42,9 +38,9 @@ CompTIA Network+ ()
 
 ## Study Material
 </div>
-COMPTIA Network+
-CYSA+
-MS-300
+- COMPTIA Network+
+- CYSA+
+- MS-300
 
 ## Projects
 - Daily Service Desk Simulation with ServiceDesk Simulator
