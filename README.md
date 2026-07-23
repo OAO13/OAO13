@@ -2,7 +2,7 @@
 
 Hello, I'm Olaniyi!
 
-Just a brief introduction of myself - I am an experienced Systems analyst, with years of experience in providing technical support with construction, maintenance, and facilities ERP systems. I'm looking to utlize my current system analysis skills to pivot into an IT Specialist role. 
+Just a brief introduction of myself - I am an experienced Systems analyst, with years of experience in providing technical support with construction, maintenance, and facilities ERP systems. I'm looking to utlize my current system analysis skills to pivot into an IT Specialist role. Apologies, I know my page is not the best looking, it's a work in progress! 
 
 ## Objective
 
@@ -13,15 +13,14 @@ Here are a few skills I've picked up on this journey. From subjects I've already
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SQL                                           | <a href="https://google.com">Detection Lab</a>|
-| Linux                                         | <a href="https://google.com">Detection Lab</a>|
-| Python                                        | SOC Automation Lab|
-| Active Directory                              | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SQL                                           |In progess|
+| Linux                                         |In progess|
+| Python                                        |In progess|
+| Active Directory                              |In progess|
+
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+|In progress|
 
 ### Network+
 <div>
@@ -47,6 +46,10 @@ CompTIA Network+ ()
 
 ## Study Material
 </div>
+COMPTIA Network+
+CYSA+
+MS-300
 
 ## Projects
 - Daily Service Desk Simulation with ServiceDesk Simulator
+- Currently completing Try Hack Me SOC Level 1 Learning Path
